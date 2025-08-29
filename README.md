@@ -4,7 +4,7 @@ Drone detection with a simple program obtained by typing the question "python de
 
 Download the files, unzip the archive containing the test images (Test1), and run the program:
 
-python detection box with model resnet50.py
+python Drone-Detection-fasterrcnn_resnet50_fpn.py
 
 Changing line 69 of the program can test any folder with images.
 
