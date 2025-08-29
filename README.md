@@ -35,3 +35,6 @@ https://github.com/ablanco1950/Drone-Detection_Yolov10
 https://app.roboflow.com/a-stx8a/drone_detection_rf_detr-9ghzn/models/drone_detection_rf_detr-9ghzn/1
 
 https://github.com/ablanco1950/Drone_Detection_RFDETRBase
+
+It is observed that these projects are complementary, some objects are detected by some, but not by others, so a solution could be a project that uses several modules in cascade as occurs in the project https://github.com/ablanco1950/Drone-Detection_Yolov10
+
