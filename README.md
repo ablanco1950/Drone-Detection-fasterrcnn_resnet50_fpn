@@ -6,6 +6,8 @@ Download the files, unzip the archive containing the test images (Test1), and ru
 
 python detection box with model resnet50.py
 
+Changing line 69 of the program can test any folder with images.
+
 If you get "module not found" errors, it would be a good idea to create a new environment to avoid incompatibilities with programs running in the current environment and install the following list of modules:
 
 pip install torch
