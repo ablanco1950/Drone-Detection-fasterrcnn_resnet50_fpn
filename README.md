@@ -8,7 +8,7 @@ python Drone-Detection-fasterrcnn_resnet50_fpn.py
 
 Changing line 69 of the program can test any folder with images.
 
-If you get "module not found" errors, it would be a good idea to create a new environment to avoid incompatibilities with programs running in the current environment and install the following list of modules:
+If you get "module not found" errors, it would be a good idea to create a new environment,to avoid incompatibilities with programs running in the current environment, and install the following list of modules:
 
 pip install torch
 
