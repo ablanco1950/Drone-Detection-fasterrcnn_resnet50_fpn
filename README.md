@@ -26,6 +26,8 @@ pip Install kiwisolver
 
 pip install importlib_resources
 
+Although as of 09/10/2025 in the list of classes of the COCO dataset, with which most of the models are pre-trained, class 5 appears as "airplane", by running this simple program it can be verified that drones are detected that do not have any appearance of airplanes.
+
 You can make comparisons with other projects; the ones I've found to be the most accurate are:
 
 https://universe.roboflow.com/drone-detection-pexej/drone-detection-data-set-yolov7/dataset/1 (you may need a Roboflow API key, which is free and easily obtained).
